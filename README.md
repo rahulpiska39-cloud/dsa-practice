@@ -7,6 +7,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ## Arrays
 1. [Two Sum](arrays/two_sum.py)
 2. [Remove Duplicates from Sorted Array](arrays/remove_duplicates_sorted_array.py)
+3. [Move Zeroes](arrays/move_zeroes.py)
+
 
 
 ---
