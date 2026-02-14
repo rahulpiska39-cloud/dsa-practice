@@ -5,8 +5,9 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ---
 
 ## Arrays
-- Two Sum
-- Remove Duplicates from Sorted Array
+1. [Two Sum](arrays/two_sum.py)
+2. [Remove Duplicates from Sorted Array](arrays/remove_duplicates_sorted_array.py)
+
 
 ---
 
