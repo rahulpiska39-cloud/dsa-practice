@@ -36,3 +36,20 @@ Mistakes:
 - Forgot self
 - Wrong index assignment
 - Returned None
+
+---
+
+## Move Zeroes
+Pattern: Two Pointers
+
+Idea:
+Move non-zero elements forward.
+Fill remaining with zeros.
+
+Time: O(n)
+Space: O(1)
+
+Edge Cases:
+- All zeros
+- No zeros
+- Single element
