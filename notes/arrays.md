@@ -61,3 +61,13 @@ Approach: Two Pointers
 Time Complexity: O(n)
 Space Complexity: O(1)
 
+---
+
+## Product of Array Except Self
+Approach: Prefix and Suffix Products
+Time Complexity: O(n)
+Space Complexity: O(1) (excluding output array)
+Key Idea: Build left product in first pass, multiply by right product in second pass.
+
+---
+
