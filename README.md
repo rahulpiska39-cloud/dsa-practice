@@ -9,6 +9,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 2. [Remove Duplicates from Sorted Array](arrays/remove_duplicates_sorted_array.py)
 3. [Move Zeroes](arrays/move_zeroes.py)
 4. [Reverse String](arrays/reverse_string.py)
+5. [Product of Array Except Self](arrays/product_except_self.py)
 
 
 
