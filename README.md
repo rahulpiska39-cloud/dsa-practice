@@ -12,6 +12,9 @@ This repository contains my solutions to Data Structures and Algorithms problems
 5. [Product of Array Except Self](arrays/product_except_self.py)
 6. [Subarray Sum Equals K](arrays/subarray_sum_equals_k.py)
 
+ ## Sliding Window
+7. [Longest Substring Without Repeating Characters](sliding_window/longest_substring_without_repeating.py)
+
 
 
 ---
