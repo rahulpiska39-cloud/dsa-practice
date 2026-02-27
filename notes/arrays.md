@@ -71,3 +71,9 @@ Key Idea: Build left product in first pass, multiply by right product in second 
 
 ---
 
+## Subarray Sum Equals K
+Approach: Prefix Sum + Hashmap
+Time Complexity: O(n)
+Space Complexity: O(n)
+Key Idea: If current_sum - k exists in prefix_map, a valid subarray exists.
+
