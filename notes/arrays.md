@@ -84,3 +84,14 @@ Space Complexity: O(n)
 Key Idea: 
 -If current_sum - k exists in prefix_map, a valid subarray exists.
 
+---
+
+## Longest Substring Without Repeating Characters
+Approach: Sliding Window with Set
+
+Time Complexity: O(n)
+Space Complexity: O(min(n, charset))
+
+Key Idea: 
+-Expand right pointer, shrink left pointer when duplicate found.
+
