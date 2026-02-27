@@ -10,6 +10,7 @@ This repository contains my solutions to Data Structures and Algorithms problems
 3. [Move Zeroes](arrays/move_zeroes.py)
 4. [Reverse String](arrays/reverse_string.py)
 5. [Product of Array Except Self](arrays/product_except_self.py)
+6. [Subarray Sum Equals K](arrays/subarray_sum_equals_k.py)
 
 
 
