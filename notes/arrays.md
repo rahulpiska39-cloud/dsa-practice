@@ -58,6 +58,7 @@ Edge Cases:
 
 ## Reverse String
 Approach: Two Pointers
+
 Time Complexity: O(n)
 Space Complexity: O(1)
 
@@ -65,15 +66,21 @@ Space Complexity: O(1)
 
 ## Product of Array Except Self
 Approach: Prefix and Suffix Products
+
 Time Complexity: O(n)
 Space Complexity: O(1) (excluding output array)
-Key Idea: Build left product in first pass, multiply by right product in second pass.
+
+Key Idea: 
+-Build left product in first pass, multiply by right product in second pass.
 
 ---
 
 ## Subarray Sum Equals K
 Approach: Prefix Sum + Hashmap
+
 Time Complexity: O(n)
 Space Complexity: O(n)
-Key Idea: If current_sum - k exists in prefix_map, a valid subarray exists.
+
+Key Idea: 
+-If current_sum - k exists in prefix_map, a valid subarray exists.
 
